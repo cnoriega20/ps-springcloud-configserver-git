@@ -7,3 +7,5 @@ spring:
       server:
         git:
           uri: https://github.com/cnoriega20/ps-springcloudconfig-toll-system
+          search-paths:
+            - 'st*'
