@@ -9,3 +9,10 @@ spring:
           uri: https://github.com/cnoriega20/ps-springcloudconfig-toll-system
           search-paths:
             - 'st*'
+          repos:
+            perf:
+              pattern:
+                - "*/perf"
+              uri:
+              search-paths:
+                -  'st*'
