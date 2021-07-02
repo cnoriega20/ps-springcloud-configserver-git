@@ -13,6 +13,6 @@ spring:
             perf:
               pattern:
                 - "*/perf"
-              uri:
+              uri: https://github.com/cnoriega20/ps-springcloud-configserver-git-perf
               search-paths:
-                -  'st*'
+                - 'st*'

@@ -7,3 +7,4 @@
     - http://localhost:8888/s1rates-default.properties
     - http://localhost:8888/s1rates-default.json
     - http://localhost:8888/s1rates-default.yml
+    - http://localhost:8888/s1rates/perf
